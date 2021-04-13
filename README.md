@@ -7,6 +7,7 @@ Desktop application for communicating with your friends!
         - Log in module
         - New user module
         - Main app module
+            
     -Server:
         - Manipulate each user using a Server Thread
         - Communicate with database using Controller module
