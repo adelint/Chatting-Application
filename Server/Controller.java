@@ -18,7 +18,7 @@ public class Controller {
     public Controller() {
         MysqlUrlString = "jdbc:mysql://localhost:3306/chat";
         databaseUserName = "root";
-        databasePassword = "programmer";
+        databasePassword = "*********";
     }
 
     //Insert a new user in database
