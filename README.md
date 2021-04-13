@@ -21,10 +21,10 @@ Desktop application for communicating with your friends!
 
 ![1](img/1.PNG)
 
-![2](img/2.PNG)
+![2](img/3.PNG)
 
-![3](img/3.PNG)
+![3](img/4.PNG)
 
-![4](img/4.PNG)
+![4](img/5.PNG)
 
-![5](img/5.PNG)
+![5](img/6.PNG)
